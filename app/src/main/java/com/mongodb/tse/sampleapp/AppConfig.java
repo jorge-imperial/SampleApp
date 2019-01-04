@@ -7,8 +7,8 @@ class AppConfig {
     static private final String appId = "simpatizantes-krlwe";
 
 
-    private static String s3ServiceName = "credenciales";
-    private static String getS3Bucket = "credenciales-simpatizantes";
+    private static String s3ServiceName = "";
+    private static String getS3Bucket = "";
 
     private static String database = "simpatizantes";
     private static String collection = "upload";
