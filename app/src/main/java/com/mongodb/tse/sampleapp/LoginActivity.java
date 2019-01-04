@@ -406,7 +406,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 Bundle b = new Bundle();
                 b.putString("user", this.mEmail);
-                b.putString("pwd", this.mPassword);
+                b.putString("password", this.mPassword);
 
                 intent.putExtras(b);
 

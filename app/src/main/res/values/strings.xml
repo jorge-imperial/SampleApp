@@ -14,4 +14,9 @@
         completions."
     </string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="contentDescr">xxxxx</string>
+    <string name="pause_all">Pause all</string>
+    <string name="cancel_all">Cancel All</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
 </resources>
