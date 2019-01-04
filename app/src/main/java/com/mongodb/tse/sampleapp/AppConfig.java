@@ -4,7 +4,7 @@ import com.mongodb.stitch.android.StitchClient;
 import com.mongodb.stitch.android.services.mongodb.MongoClient;
 
 class AppConfig {
-    static private final String appId = "simpatizantes-ohqjw";
+    static private final String appId = "simpatizantes-krlwe";
 
 
     private static String s3ServiceName = "credenciales";
@@ -14,10 +14,10 @@ class AppConfig {
     private static String collection = "upload";
 
 
-    public static final String COGNITO_POOL_ID = "us-east-1:e83984dd-bdb3-4d19-a99b-ea6c54ee7593";
-    public static final String COGNITO_POOL_REGION = "us-east-1";
-    //public static final String BUCKET_NAME = "credenciales-simpatizantes";
-    public static final String BUCKET_REGION = "us-east-1";
+    public static final String COGNITO_POOL_ID = "";
+    public static final String COGNITO_POOL_REGION = "";
+
+    public static final String BUCKET_REGION = "";
 
 
 
